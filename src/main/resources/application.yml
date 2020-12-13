@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: yoke-eureka-server
+server:
+  port: 8761
